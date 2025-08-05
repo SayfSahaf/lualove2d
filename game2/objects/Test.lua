@@ -1,4 +1,4 @@
---! file: Test.lua
+--! file: test.lua
 
 local Test = Object:extend()
 
