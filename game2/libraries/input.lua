@@ -1,4 +1,5 @@
 --! file: input.lua
+
 local input_path = (...):match('(.-)[^%.]+$') .. '.'
 local Input = {}
 Input.__index = Input
